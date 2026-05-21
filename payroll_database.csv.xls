@@ -1,0 +1,101 @@
+Employee_ID,Employee_Name,Designation,Salary,Department,Email,Phone,Date_Joined
+EMP_001,Alice Johnson,Software Engineer,85000,IT,alice.johnson@company.com,5551001,2020-01-15
+EMP_002,Bob Smith,Senior Developer,95000,IT,bob.smith@company.com,5551002,2019-03-22
+EMP_003,Carol White,DevOps Engineer,90000,IT,carol.white@company.com,5551003,2020-06-10
+EMP_004,David Brown,Database Admin,88000,IT,david.brown@company.com,5551004,2021-01-05
+EMP_005,Emily Davis,IT Support,55000,IT,emily.davis@company.com,5551005,2021-07-12
+EMP_006,Frank Miller,Network Admin,92000,IT,frank.miller@company.com,5551006,2020-02-18
+EMP_007,Grace Lee,Cloud Architect,105000,IT,grace.lee@company.com,5551007,2019-11-30
+EMP_008,Henry Wilson,System Admin,82000,IT,henry.wilson@company.com,5551008,2021-04-20
+EMP_009,Iris Martinez,QA Engineer,75000,IT,iris.martinez@company.com,5551009,2020-08-14
+EMP_010,Jack Taylor,Tech Lead,98000,IT,jack.taylor@company.com,5551010,2018-09-25
+EMP_011,Karen Anderson,Security Engineer,96000,IT,karen.anderson@company.com,5551011,2019-12-10
+EMP_012,Leo Thomas,Junior Developer,65000,IT,leo.thomas@company.com,5551012,2022-01-08
+EMP_013,Mona Jackson,Full Stack Dev,87000,IT,mona.jackson@company.com,5551013,2020-05-19
+EMP_014,Nathan White,Mobile Developer,84000,IT,nathan.white@company.com,5551014,2021-03-11
+EMP_015,Olivia Harris,Data Engineer,91000,IT,olivia.harris@company.com,5551015,2020-10-22
+EMP_016,Paul Martin,Infrastructure Eng,93000,IT,paul.martin@company.com,5551016,2019-07-14
+EMP_017,Quinn Thompson,Software Architect,110000,IT,quinn.thompson@company.com,5551017,2018-05-20
+EMP_018,Rachel Garcia,UX Developer,79000,IT,rachel.garcia@company.com,5551018,2021-02-09
+EMP_019,Steve Rodriguez,Backend Engineer,89000,IT,steve.rodriguez@company.com,5551019,2020-11-16
+EMP_020,Tina Lopez,Frontend Developer,82000,IT,tina.lopez@company.com,5551020,2021-06-03
+EMP_021,Uma Patel,HR Manager,75000,HR,uma.patel@company.com,5551021,2019-08-20
+EMP_022,Victor Chang,Recruiter,68000,HR,victor.chang@company.com,5551022,2020-04-10
+EMP_023,Wendy Kumar,HR Specialist,62000,HR,wendy.kumar@company.com,5551023,2021-01-25
+EMP_024,Xavier Santos,Payroll Officer,65000,HR,xavier.santos@company.com,5551024,2020-09-14
+EMP_025,Yara Khan,Training Coordinator,59000,HR,yara.khan@company.com,5551025,2021-03-30
+EMP_026,Zack Ross,Benefits Admin,61000,HR,zack.ross@company.com,5551026,2020-12-08
+EMP_027,Amy Foster,Employee Relations,67000,HR,amy.foster@company.com,5551027,2019-10-15
+EMP_028,Brett Cohen,Compensation Analyst,64000,HR,brett.cohen@company.com,5551028,2021-05-22
+EMP_029,Chloe Pierce,Recruitment Lead,76000,HR,chloe.pierce@company.com,5551029,2019-06-18
+EMP_030,Derek Wells,HR Coordinator,58000,HR,derek.wells@company.com,5551030,2021-08-10
+EMP_031,Evelyn Brooks,Training Manager,72000,HR,evelyn.brooks@company.com,5551031,2020-02-26
+EMP_032,Felix Day,Talent Acquisition,69000,HR,felix.day@company.com,5551032,2020-07-12
+EMP_033,Gina Morris,Compliance Officer,70000,HR,gina.morris@company.com,5551033,2019-11-22
+EMP_034,Hunter Gray,HR Analyst,63000,HR,hunter.gray@company.com,5551034,2021-04-05
+EMP_035,Ivy Stone,Culture Manager,66000,HR,ivy.stone@company.com,5551035,2020-08-19
+EMP_036,Jack Newman,Finance Manager,82000,Finance,jack.newman@company.com,5551036,2019-05-15
+EMP_037,Julia Burns,Accountant,68000,Finance,julia.burns@company.com,5551037,2020-03-22
+EMP_038,Kevin Bell,Senior Accountant,78000,Finance,kevin.bell@company.com,5551038,2019-09-11
+EMP_039,Laura Hunt,Financial Analyst,75000,Finance,laura.hunt@company.com,5551039,2020-06-30
+EMP_040,Marco Costa,CFO,150000,Finance,marco.costa@company.com,5551040,2015-01-10
+EMP_041,Nina Russell,Auditor,71000,Finance,nina.russell@company.com,5551041,2020-11-08
+EMP_042,Oscar Mason,Tax Specialist,77000,Finance,oscar.mason@company.com,5551042,2019-12-20
+EMP_043,Piper Hayes,Bookkeeper,59000,Finance,piper.hayes@company.com,5551043,2021-02-14
+EMP_044,Quinn Davis,Budget Analyst,73000,Finance,quinn.davis@company.com,5551044,2020-08-05
+EMP_045,Ryan Price,Payroll Manager,72000,Finance,ryan.price@company.com,5551045,2020-04-28
+EMP_046,Sophie Bennett,Financial Planner,79000,Finance,sophie.bennett@company.com,5551046,2019-07-09
+EMP_047,Thomas Dunn,Controller,88000,Finance,thomas.dunn@company.com,5551047,2018-10-16
+EMP_048,Uma Singh,Investment Analyst,81000,Finance,uma.singh@company.com,5551048,2019-04-23
+EMP_049,Vincent Murphy,Junior Accountant,58000,Finance,vincent.murphy@company.com,5551049,2021-06-15
+EMP_050,Wilma Shaw,Risk Analyst,76000,Finance,wilma.shaw@company.com,5551050,2020-09-27
+EMP_051,Xavier Hunt,Accounts Payable,62000,Finance,xavier.hunt@company.com,5551051,2021-01-20
+EMP_052,Yasmine Davis,Accounts Receivable,63000,Finance,yasmine.davis@company.com,5551052,2020-12-03
+EMP_053,Zachary Fox,Financial Controller,85000,Finance,zachary.fox@company.com,5551053,2019-08-14
+EMP_054,Ava Green,Marketing Manager,78000,Marketing,ava.green@company.com,5551054,2020-02-10
+EMP_055,Bradley King,Digital Marketer,70000,Marketing,bradley.king@company.com,5551055,2020-07-18
+EMP_056,Camilla Wright,SEO Specialist,69000,Marketing,camilla.wright@company.com,5551056,2021-01-30
+EMP_057,Damian Lopez,Content Creator,65000,Marketing,damian.lopez@company.com,5551057,2021-03-12
+EMP_058,Elena Scott,Brand Manager,75000,Marketing,elena.scott@company.com,5551058,2019-11-05
+EMP_059,Fabian Green,Social Media Mgr,67000,Marketing,fabian.green@company.com,5551059,2020-05-22
+EMP_060,Gloria Adams,Product Marketer,73000,Marketing,gloria.adams@company.com,5551060,2019-09-18
+EMP_061,Harrison Clark,Email Marketer,64000,Marketing,harrison.clark@company.com,5551061,2021-04-08
+EMP_062,Iris Morgan,Marketing Analyst,68000,Marketing,iris.morgan@company.com,5551062,2020-08-25
+EMP_063,Jake Rivers,Campaign Manager,72000,Marketing,jake.rivers@company.com,5551063,2020-03-15
+EMP_064,Keira Stone,Copywriter,62000,Marketing,keira.stone@company.com,5551064,2021-06-02
+EMP_065,Liam Hayes,Market Researcher,70000,Marketing,liam.hayes@company.com,5551065,2020-10-12
+EMP_066,Molly Jensen,Brand Specialist,66000,Marketing,molly.jensen@company.com,5551066,2021-02-20
+EMP_067,Nolan Chase,Graphic Designer,65000,Marketing,nolan.chase@company.com,5551067,2020-11-08
+EMP_068,Olive Rivers,Video Producer,71000,Marketing,olive.rivers@company.com,5551068,2019-12-14
+EMP_069,Parker Lane,PR Manager,77000,Marketing,parker.lane@company.com,5551069,2019-08-30
+EMP_070,Quinn Roberts,Event Coordinator,61000,Marketing,quinn.roberts@company.com,5551070,2021-05-18
+EMP_071,Rachel Nelson,Sales Manager,80000,Sales,rachel.nelson@company.com,5551071,2019-06-20
+EMP_072,Samuel Carter,Sales Executive,72000,Sales,samuel.carter@company.com,5551072,2020-04-15
+EMP_073,Tanya Phillips,Account Executive,75000,Sales,tanya.phillips@company.com,5551073,2020-08-10
+EMP_074,Ulrich Campbell,Sales Rep,65000,Sales,ulrich.campbell@company.com,5551074,2021-02-25
+EMP_075,Vanessa Parker,Inside Sales,68000,Sales,vanessa.parker@company.com,5551075,2020-09-14
+EMP_076,Wesley Evans,Business Dev,78000,Sales,wesley.evans@company.com,5551076,2019-10-22
+EMP_077,Xenia Harrison,Key Account Mgr,81000,Sales,xenia.harrison@company.com,5551077,2019-05-09
+EMP_078,Yasmin Hughes,Territory Manager,76000,Sales,yasmin.hughes@company.com,5551078,2020-01-30
+EMP_079,Zachary Knight,Sales Analyst,69000,Sales,zachary.knight@company.com,5551079,2020-11-05
+EMP_080,Aurora Long,Enterprise Sales,85000,Sales,aurora.long@company.com,5551080,2019-03-18
+EMP_081,Brandon Price,Channel Manager,77000,Sales,brandon.price@company.com,5551081,2020-06-12
+EMP_082,Cassandra Reid,Quota Manager,74000,Sales,cassandra.reid@company.com,5551082,2020-12-08
+EMP_083,Derek Sanchez,Telemarketer,58000,Sales,derek.sanchez@company.com,5551083,2021-07-22
+EMP_084,Elena Taylor,Sales Coordinator,62000,Sales,elena.taylor@company.com,5551084,2021-01-15
+EMP_085,Fredrick Young,Regional Director,95000,Sales,fredrick.young@company.com,5551085,2018-09-25
+EMP_086,Giselle Adams,Operations Manager,79000,Operations,giselle.adams@company.com,5551086,2019-07-11
+EMP_087,Harrison Baker,Process Analyst,68000,Operations,harrison.baker@company.com,5551087,2020-05-20
+EMP_088,Isabelle Carter,Supply Chain Mgr,77000,Operations,isabelle.carter@company.com,5551088,2019-11-14
+EMP_089,Jerome Davis,Logistics Officer,71000,Operations,jerome.davis@company.com,5551089,2020-03-09
+EMP_090,Kiersten Edwards,Warehouse Mgr,73000,Operations,kiersten.edwards@company.com,5551090,2020-08-18
+EMP_091,Lester Foster,Procurement Officer,70000,Operations,lester.foster@company.com,5551091,2021-02-04
+EMP_092,Magnolia Gray,Quality Manager,76000,Operations,magnolia.gray@company.com,5551092,2019-09-27
+EMP_093,Nicholas Harris,Compliance Manager,74000,Operations,nicholas.harris@company.com,5551093,2020-06-15
+EMP_094,Olivia Johnson,Facilities Manager,69000,Operations,olivia.johnson@company.com,5551094,2020-10-22
+EMP_095,Penelope King,Operations Analyst,67000,Operations,penelope.king@company.com,5551095,2021-04-10
+EMP_096,Quinton Lee,Maintenance Manager,72000,Operations,quinton.lee@company.com,5551096,2020-01-28
+EMP_097,Rosalinda Martinez,Inventory Clerk,58000,Operations,rosalinda.martinez@company.com,5551097,2021-05-19
+EMP_098,Silas Nelson,Safety Officer,70000,Operations,silas.nelson@company.com,5551098,2019-12-10
+EMP_099,Tanya Oliver,Production Manager,81000,Operations,tanya.oliver@company.com,5551099,2019-04-22
+EMP_100,Ulysses Park,Operations Director,92000,Operations,ulysses.park@company.com,5551100,2018-11-30
